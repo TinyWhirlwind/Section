@@ -4,9 +4,10 @@
 <p align="center">
   <img src="image/show.gif" align="center" width="95%">
 </p>
-<div class="highlight highlight-source-js notranslate position-relative overflow-auto" dir="auto" data-snippet-clipboard-copy-content="
-npm install"><pre>
 
-<div class="highlight highlight-source-js notranslate position-relative overflow-auto" dir="auto" data-snippet-clipboard-copy-content="
-npm run dev"><pre>
+<p dir="auto">download</p>
+<div class="highlight highlight-source-js notranslate position-relative overflow-auto" dir="auto" data-snippet-clipboard-copy-content="npm install"><pre>
+<span class="pl-c"></span>
+<p dir="auto">run</p>
+<div class="highlight highlight-source-js notranslate position-relative overflow-auto" dir="auto" data-snippet-clipboard-copy-content="npm run dev"><pre>
 
